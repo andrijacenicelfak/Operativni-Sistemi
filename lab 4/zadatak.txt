@@ -1,0 +1,1 @@
+Korišćenjem programskog jezika C napisati Linux program koji u zadatom direktorijumu (putanja do direktorijuma se zadaje kao ulazni argument programa) rekurzivno nalazi pet najvećih regularnih datoteka.  Program na kraju rada treba da odštampa putanje i veličine tih datoteka.

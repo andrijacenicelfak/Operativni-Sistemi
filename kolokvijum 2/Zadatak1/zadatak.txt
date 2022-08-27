@@ -1,0 +1,4 @@
+Korišćenjem programskog jezika C napisati Linux/UNIX program koji se ne moze prekinuti jednim pritiskom na kombinaciju tastera Ctrl-C, 
+već sa 3 uzastopna pritiska ove kombinacije tastera u roku od 3 sekunde. Ukoliko od prvog pritiska kmbinacije tastera Ctrl-C protekne više 
+od 3 sekunde a korisnik nije 3 puta pritisnuo ovu kombinaciju tastera program na ekranu štampa poruku da se prekid programa resetuje i cela procedura 
+detekcije 3 pritiska u roku od 3 sekunde počinje ispočetka.

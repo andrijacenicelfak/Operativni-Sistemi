@@ -1,0 +1,4 @@
+Korišćenjem programskog jezika C napisati Linux progam koji u glavnoj niti od korisnika očekuje da unese ceo broj.
+Zatim startuje drugu nit, prosleđuje joj uneti broj, a druga nit odbrojava (i štampa na ekranu brojeve kako odbrojava)
+od 0 do unetog broja sa pauzom od 3 sekunde između dva uzastopna broja. Zatim u glavnoj niti korisnik ponovo unosi ceo
+broj i ovaj proces odbrojavanja i unosa broja se ponavlja sve dok korisnik ne unese „KRAJ“. 

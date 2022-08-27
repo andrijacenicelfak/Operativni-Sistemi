@@ -1,0 +1,1 @@
+Korišćenjem programskog jezika C kreirati dva Linux procesa. Prvi proces kreira u deljenom memorijskom segmentu matricu dimenzija MxN i inicijalizuje istu random vrednostima. Proces 2 sumira svaku od vrsti i rezultat upisuje na random poziciju u okviru vrste koju obrađuje.

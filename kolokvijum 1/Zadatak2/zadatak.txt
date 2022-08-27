@@ -1,0 +1,7 @@
+Korišćenjem programskog jezika C kreirati Linux program koji kreira dodatni proces
+ i ova dva procesa komuniciraju korišćenjem datavoda. 
+ Prvi process generiše dve slučajne celobrojne vrednosti u opsegu od 0 do 99 i 
+ ukoliko je zbir te dve generisane vrednosti veći od 100 prosleđuje ih drugom procesu 
+ korišćenjem datavoda. Nakon upisa drugi process proverava da li su dobijene vrednosti 
+ jednake i na ekranu štampa odgovarajuću poruku. Ovaj process generaisanja slučajnog para vrednosti, 
+ slanja drugom procesu i štampe poruke na ekranu se ponavlja 10 puta.

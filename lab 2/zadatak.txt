@@ -1,0 +1,10 @@
+Korišćenjem programskog jezika C kreirati tri Linux
+ procesa koja komuniciraju korišćenjem datavoda. 
+Prvi proces generiše niz proizvoljnih celih brojeva 
+(dužina niza je fiksna i iznosi 15 karaktera). 
+Ukoliko je prvi generisani broj paran, generisani niz brojeva 
+se korišćenjem datavoda šalje drugom procesu koji ih upisuje u 
+datoteku PARNI.txt. 
+Ukoliko je prvi generisani broj neparan, generisani niz brojeva 
+se korišćenjem datavoda šalje trećem procesu koji ih štampa na 
+standardnom izlazu.
